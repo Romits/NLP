@@ -1,1 +1,2 @@
-# NLP: The repository contains code on NLP.
+This repoistory contains code on Natural Language Processing.
+
